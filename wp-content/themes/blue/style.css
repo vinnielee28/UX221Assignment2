@@ -1,0 +1,20 @@
+/*
+Theme Name:     blue
+Description:    a blue theme
+Author:         vinnielee
+Template:       cenote
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+
+a{
+    color: #004b84;
+}
+
+#cenote-content-masonry a{
+    color: #79000c;
+}
+
+#colophon .site-info{
+    color: #0072ff;
+}
